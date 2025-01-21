@@ -1,2 +1,2 @@
-# Sandhya
+# Sandhiya
 front end developer
